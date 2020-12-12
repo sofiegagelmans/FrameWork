@@ -1,3 +1,3 @@
-# webfolder syntra starter-kit
-
 # framework exercise
+
+# https://majestic-page.surge.sh
